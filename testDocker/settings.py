@@ -25,7 +25,9 @@ SECRET_KEY = 'x2+)yttf3cy8)nf54am)k0-3lv4)90mxue)avpg1b#f1@=@sf+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    "https://mohsam97.salalem.com"
+]
 
 
 # Application definition
