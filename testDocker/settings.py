@@ -26,7 +26,7 @@ SECRET_KEY = 'x2+)yttf3cy8)nf54am)k0-3lv4)90mxue)avpg1b#f1@=@sf+'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://mohsam97.salalem.com"
+    "mohsam97.salalem.com"
 ]
 
 
